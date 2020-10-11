@@ -9,3 +9,15 @@
 
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
 @import "minima/fastpages-dracula-highlight"; 
+
+
+/*-----------------------------------*/
+/*------------ CUSTOM ---------------*/
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
+.post-content  p, .post-content  li {
+  font-family: "Nanum Gothic", normal;
+  font-size: 16px;
+  color: #515151;
+  font-weight: 400;
+}
