@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap");
 .highlight .c { color: #998; font-style: italic; }
 
 .highlight .err { color: #a61717; background-color: #e3d2d2; }
@@ -477,5 +478,9 @@ pre code { font-size: 15px !important; }
 .highlight .gd { color: #ff5555; }
 
 p code { font-size: 19px; }
+
+/*-----------------------------------*/
+/*------------ CUSTOM ---------------*/
+.post-content p, .post-content li { font-family: "Nanum Gothic", normal; font-size: 16px; color: #515151; font-weight: 400; }
 
 /*# sourceMappingURL=style.css.map */
